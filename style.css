@@ -68,7 +68,10 @@
     margin-top: 1%;
     text-decoration: none;
 }
-
+.logo{
+  width: 318px;
+  height: 78px
+}
 .header-links{
     float: right;
     padding-right: 15%;
